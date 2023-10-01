@@ -1,77 +1,38 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+avatar_filename: adrianamaldonado_croped.jpg
+bio: ""
+interests: []
+social:
+  - display:
+      header: false
+    icon_pack: ai
+    link: https://twitter.com/AdriMaldoC
+    icon: https://twitter.com/AdriMaldoC
+  - display:
+      header: false
+    link: https://scholar.google.com.mx/citations?user=wrHHWbIAAAAJ&hl=en
+    icon_pack: ai
+    icon: https://scholar.google.com.mx/citations?user=wrHHWbIAAAAJ&hl=en
 organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - name: Universidad del Rosario
+    url: https://urosario.edu.co/sites/default/files/static/Programa-de-Biologia/Inicio/index.html
+  - name: Max Planck Institute of Animal Behavior
+    url: https://www.ab.mpg.de
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Ecology and Evolutionary Biology
+      institution: University of California Los Angeles
+    - course: MSc in Biology
+      institution: Universidad Nacional de Colombia
+superuser: true
 user_groups:
   - Researchers
+last_name: Bighetti
+role: Professor Universidad del Rosario, Leader Max Planck Partner Group and
+  Affiliated Scientist at the Max Planck Institute of Animal Behavior.
+highlight_name: false
+title: Adriana Maldonado-Chaparro
+first_name: Nelson
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Adriana is a professor of Behavioral Ecology and Experimental Design at Universidad del Rosario. She is interested in understanding how social relationships form and are maintened, how group living species respond to variation in their social and ecological environment, how environmental perturbations affect the stability of social relationships, and how variation in social behavior can drive changes in group and population dynamics. I’m also interested in improving science transparency and literacy, that is why I now serve in the [PCI Registered Reports](https://rr.peercommunityin.org/). ​
